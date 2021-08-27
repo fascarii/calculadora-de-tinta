@@ -41,7 +41,7 @@ namespace Ativ08_projeto_calculadora_tinta
         //Botão "Calcular"
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            // Esse trecho verifica se todos os camos possuem algum valor digitado.
+            // Esse trecho verifica se todos os campos possuem algum valor digitado. Tratamento de erros.
 
 
             //Largura da parede
@@ -95,7 +95,7 @@ namespace Ativ08_projeto_calculadora_tinta
         }
 
 
-        //Sub-rotina para limpar os campos do formulário reiniciar o numericUpDown
+        //Sub-rotina para limpar os campos do formulário e reiniciar o numericUpDown
         void LimparCampos()
         {
             txtLarg.Clear();
@@ -118,7 +118,7 @@ namespace Ativ08_projeto_calculadora_tinta
             Close();
         }
 
-        //Este botão altera a cor de fundo
+        //Este botão altera a cor de fundo do programa. "Modo Noturno"
         private void cbxDark_CheckedChanged(object sender, EventArgs e)
         {
             if (cbxDark.Checked)

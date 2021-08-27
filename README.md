@@ -1,5 +1,5 @@
 # calculadora-de-tinta
-Projeto final da disciplina de técnicas de programação. Desenvolvido em C# com Visual Studio
+Projeto final da disciplina de Técnicas de Programação.
+Desenvolvido em C# com Visual Studio.
 
-Vídeo com um teste de funcionamento do programa.
-https://drive.google.com/file/d/1IWm1vEPHEQR30SniYIQjd1wCBjLtKUp2/view?usp=sharing
+[Assista aqui](https://drive.google.com/file/d/1IWm1vEPHEQR30SniYIQjd1wCBjLtKUp2/view?usp=sharing), um vídeo do programa em funcionamento.

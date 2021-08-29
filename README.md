@@ -1,4 +1,11 @@
-# Calculadora de tinta
+<div align="center">
+  
+# Calculadora de tinta  
+
+</div>
+
+---
+
 Projeto final da disciplina de Técnicas de Programação.
 Desenvolvido em C# com Visual Studio.
 

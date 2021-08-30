@@ -41,7 +41,8 @@ namespace Ativ08_projeto_calculadora_tinta
         //Botão "Calcular"
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            // Esse trecho verifica se todos os campos possuem algum valor digitado. Tratamento de erros.
+            // Esse trecho verifica se todos os campos possuem algum valor digitado
+            //Tratamento de erros
 
 
             //Largura da parede
